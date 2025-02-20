@@ -30,9 +30,11 @@ Ao clicar no botão **"Sortear Amigo"**, o programa seleciona aleatoriamente um 
 - **CSS**
 - **JavaScript**
 
+## 📷 Prévia do Projeto
+![Amigo Secreto](./assets/desafio.png)
 
 ## 🤝 Parceria
 Este projeto foi desenvolvido como parte do desafio promovido pela Oracle em parceria com a Alura.
 
-Feito com Victória Suares (suares13)
+Feito por Victória Suares (suares13)
 
